@@ -1,0 +1,1 @@
+This is a project made by following along to the 'ASP.NET Core Full Course for Beginners' by Julio Casal. 

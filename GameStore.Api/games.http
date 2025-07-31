@@ -1,0 +1,9 @@
+GET http://localhost:5142/games 
+#Run the app from terminal and right click on the above link and press 'send request'  
+
+### 
+GET http://localhost:5142/games/1 
+# Need those above three '###' to seperate the requests and ensure they both work.
+
+###
+GET http://localhost:5142/games/2 
